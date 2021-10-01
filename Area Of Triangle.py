@@ -3,3 +3,4 @@ def calc():
     base=int(input("Enter b"))
     area=(height*base)/2
     print(area)
+calc()
